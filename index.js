@@ -1,14 +1,3 @@
-// import config from './config.js';
-// const apiKey = config.api_key;
-
-//* Note: Figure out how to get apk_key to work using ./config.js
-
-// require('dotenv').config();
-
-// const apiKey = process.env.API_KEY;
-
-
-
 // ~~~~ Code below is for project ~~~ //
 
 // Setup map
